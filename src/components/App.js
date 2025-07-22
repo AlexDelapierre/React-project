@@ -1,3 +1,4 @@
+import React, { useState } from 'react';
 import '../styles/App.css';
 import Banner from './Banner'
 import logo from '../assets/logo.png'
